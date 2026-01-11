@@ -10,4 +10,4 @@
 - Installation guide : (https://docs.ros.org/en/humble/Installation.html)
 - Turtoials : (https://docs.ros.org/en/humble/Tutorials.html)
 
-## Deadline : 16/1/2025(Friday)
+## Deadline : 20/1/2025(Tuesday)
