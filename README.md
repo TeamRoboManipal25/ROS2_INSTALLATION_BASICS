@@ -1,6 +1,7 @@
 # ROS2_INSTALLATION+BASICS
 
-- Install and setup ROS2 porperly following installation guide
+## Task
+- Install and setup ROS2 HUmble Hawksbill properly following installation guide
 - Understand Beginer:CLI tools from tutorials
 - Understand Beginer:Client Libraries from tutorials
 
@@ -8,4 +9,4 @@
 - Installation guide : (https://docs.ros.org/en/humble/Installation.html)
 - Turtoials : (https://docs.ros.org/en/humble/Tutorials.html)
 
-## Deadline : 16/1/2025
+## Deadline : 15/1/2025(Thursday)
